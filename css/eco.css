@@ -41,6 +41,7 @@ h6,
 .h6 {
   color: #666666;
 }
+h3{ font-size: 20px}
 header .navbar-default {
   background: none;
   border: none;
@@ -709,7 +710,7 @@ header .navbar-default ul.navbar-nav li a {
   background: none;
 }
 header .navbar-default ul.navbar-nav li a.getApp {
-  color: #3cb4b4;
+  color: #DEB000;
   background: #ffffff;
   /* Old browsers */
   background: -moz-linear-gradient(180deg, #ffffff 0%, #e0e0e0 100%);
@@ -728,7 +729,7 @@ header .navbar-default ul.navbar-nav li a.getApp {
   /* IE6-9 fallback on horizontal gradient */
 }
 header .navbar-default ul.navbar-nav li a.getApp:hover {
-  color: #40bfbf;
+  color: #DEB000;
   background: #ffffff;
   /* Old browsers */
   background: -moz-linear-gradient(180deg, #ffffff 0%, #cccccc 100%);
